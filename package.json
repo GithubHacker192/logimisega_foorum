@@ -2,7 +2,7 @@
   "name": "logimisega_foorum",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://githubhacker192.github.io/logimisega_foorum",
+  "homepage": "https://githubhacker192.github.io",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
